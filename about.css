@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    padding: 10px;
+    margin-right: 20px;
+    gap: 30px;
+}
+   .photo img{
+    margin-top: 45px;
+    margin-right: 20px;
+    box-sizing: border-box;
+    border-radius:10px ;
+    box-shadow: 10px 10px 5px darkslateblue;
+   }
+ .text h4{
+    color:darkslateblue;
+    font-size: 20px;
+ }
+ .text h5{
+    font-size: 15px;
+ }
+
+  
+   
+   .text h2{
+    color: navy;
+    font-size: 2rem;
+
+   }
+   .text h3 span{
+    color:darkslateblue;
+   }
+   body{
+    background-image: url("normal.jpeg");
+   }
+  
